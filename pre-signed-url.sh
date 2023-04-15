@@ -10,6 +10,7 @@
 # Bug fixed : timer restart after refresh the page
 # feature : page cant be accessable after few seconds after countdown reaches to zero
 # prerequried : aws cli
+# timer stored in : s3
 # timer source : https://github.com/Isaac58222/chat-gpt-projects/tree/main/timer-for-pre-signedurl-on-shellscripting-repo
 ##############################################################################################################################
 #
